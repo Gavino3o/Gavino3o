@@ -54,4 +54,4 @@
 <br><br>
 </div>
 
-<img align="center" alt="footer" width="1200" height="125" src="https://github.com/Gavino3o/Gavino3o/blob/main/Nature%20Background.gif">
+<img align="center" alt="footer" width="1200" height="125" src="https://github.com/Gavino3o/Gavino3o/blob/main/nature_background.gif">
