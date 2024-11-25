@@ -4,8 +4,6 @@
 
 - 🎓 I'm an undergraduate student studying Computer Science in the National University of Singapore.
 
-- 🔭 I’m currently looking for an internship.
-
 - 🌱 As a passion project, I am currently working on **Sugar Scout**, a mobile app looking for desserts near you!
 
 - ❤️ Hobbies: Reading, Cooking, Swimming, Gaming.
