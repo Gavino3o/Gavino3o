@@ -28,6 +28,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="JAVASCRIPT"> </a>
     <a href="https://"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="TYPESCRIPT"></a>
+    <br>
     <a href="https://"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DvAFB" alt="REACT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
     <a href="https://"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="REACTNATIVE"></a>
